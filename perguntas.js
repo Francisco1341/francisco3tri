@@ -20,4 +20,14 @@ criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
+
+    criaCartao(
+    'Lingua inglesa',
+    'Como se diz chuva em Inglês?',
+    'chuva em ingles é rain (RAI)'
+
+    criaCartao(
+    'Lingua inglesa',
+    'Como se diz triste em Inglês?',
+    ' triste em ingles é sad (RAI)'
 )
